@@ -1,0 +1,66 @@
+{
+    "c2array": true,
+    "size": [
+        7,
+        2,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Name:"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Coin"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                "Current Skin"
+            ],
+            [
+                "Red"
+            ]
+        ],
+        [
+            [
+                "Current Accessory"
+            ],
+            [
+                "None"
+            ]
+        ],
+        [
+            [
+                "Position Icon skin in Store"
+            ],
+            [
+                "Red"
+            ]
+        ],
+        [
+            [
+                "RightOrLeft"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Position Icon Acessory in Store"
+            ],
+            [
+                "None"
+            ]
+        ]
+    ]
+}
